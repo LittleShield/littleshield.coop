@@ -8,7 +8,7 @@ LittleShield makes secure web connections affordable for everyone. We offer low-
 
 ## How to Get Help
 
-**To request assistance with your SSL certificate installation,** simply email us at [customer@littleshield.coop](mailto:customer@littleshield.coop)
+**To request assistance with your SSL certificate installation,** simply email us at [littleshield.coop+customer@gmail.com](mailto:littleshield.coop+customer@gmail.com)
 
 We want you to know that **we never spam or auto-subscribe anyone.** Every legitimate request you send will reach a real person to help you secure your organization's online presence. Our team is dedicated to providing personalized support.
 
@@ -19,7 +19,7 @@ We're proud to work with these incredible organizations that share our commitmen
 - [https://letsencrypt.org](https://letsencrypt.org) - Providing free SSL certificates to the world
 - [https://www.usworker.coop](https://www.usworker.coop) - Supporting worker-owned businesses across the United States
 - [https://www.cncf.io](https://www.cncf.io) - Cloud Native Computing Foundation - Advancing cloud-native technologies for the cooperative movement
-- Become a sponsor - [partner@littleshield.coop](mailto:partner@littleshield.coop)
+- Become a sponsor - [littleshield.coop+partner@gmail.com](mailto:littleshield.coop+partner@gmail.com)
 
 ## Working Together, Not Competing
 
@@ -31,7 +31,7 @@ We're here because we believe in the power of community-driven solutions, and we
 
 ## Join Our Cooperative
 
-Interested in supporting our mission? Email us at [partner@littleshield.coop](mailto:partner@littleshield.coop) to inquire about membership, partnering, or other ways to contribute.
+Interested in supporting our mission? Email us at [littleshield.coop+partner@gmail.com](mailto:littleshield.coop+partner@gmail.com) to inquire about membership, partnering, or other ways to contribute.
 
 Cooperative membership is open to individuals and businesses who wish to contribute to our mission. Whether you're interested in supporting our work, participating in decision-making, or simply learning more about cooperative values – we welcome you to become part of the LittleShield.coop community.
 
